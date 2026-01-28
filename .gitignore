@@ -24,3 +24,7 @@ Thumbs.db
 # Remotion
 .remotion/
 node_modules
+
+# Claude Code
+.agents/
+.claude/
