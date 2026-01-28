@@ -6,6 +6,7 @@ package-lock.json
 out/
 *.mp4
 *.mp3
+!public/*.mp3
 
 # OS files
 .DS_Store
